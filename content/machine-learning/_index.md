@@ -5,5 +5,5 @@ summary: Learn how to use Wowchemy's docs layout for publishing online courses, 
   documentation, and tutorials.
 title: "\U0001F916 Machine Learning"
 toc: false
-weight: 1
+weight: 20
 ---

@@ -1,10 +1,10 @@
 ---
-date: "2022-09-24"
+date: "2022-12-15"
 image:
   caption: NASA
   filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-title: ✍️ Second Brain
-toc: false
+title: ✍️ Arvind's Second Brain
+toc: true
 ---
 
 Welcome to the _Second Brain_ template!
@@ -38,3 +38,5 @@ To create a **private second brain** either:
 ## Example notebook
 
 {{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}}
+
+{{< cta cta_text="👉 Check out the Math Models and Complexity notebook" cta_link="complexity-science" >}}
